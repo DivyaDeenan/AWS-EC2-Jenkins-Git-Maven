@@ -4,5 +4,5 @@
 <h4>Deploying on container from jenkins using ansiible playbooks</h4>
 <h4>Deploying on container from jenkins using ansiible playbooks pulling from docker hub</h4>
 <h4>Deploying on kubernetes using ansible playbooks</h4>
-<h4>Deploying on kubernetes using ansible playbooks using rollback update</h4>
+<h4>Deploying on kubernetes using ansible playbooks using rollback update policy</h4>
 <h4> Glad to see you here </h4>
